@@ -5,4 +5,4 @@ people = [
 ]
 
 for person in people:
-   print("Hello, ", + person + "!")
+   print("Hello, " + person + "!")
