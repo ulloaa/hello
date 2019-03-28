@@ -1,5 +1,5 @@
 people = [
-   "Fred",
+   "Fredo",
    "Margaret",
    "Jerry",
    "Winston",
